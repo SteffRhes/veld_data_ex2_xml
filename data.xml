@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<root>
+  <a>
+    <li>1</li>
+    <li>4</li>
+  </a>
+  <b>
+    <li>2</li>
+    <li>5</li>
+  </b>
+  <c>
+    <li>3</li>
+    <li>6</li>
+  </c>
+</root>
