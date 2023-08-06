@@ -5,4 +5,5 @@ x-veld:
     files:
       path: data.xml
       format: "xml"
+      kind: "dummy data"
 
