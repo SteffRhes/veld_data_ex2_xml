@@ -1,15 +1,13 @@
 <?xml version="1.0" ?>
 <root>
-  <a>
-    <li>1</li>
-    <li>2</li>
-  </a>
-  <b>
-    <li>3</li>
-  </b>
-  <c>
-    <li>4</li>
-    <li>5</li>
-    <li>6</li>
-  </c>
+  <id>30</id>
+  <title>Things aren't going well at all</title>
+  <body>Things aren't going well at all with mom today. She is just a limp noodle and wants to sleep all the time. I sure hope that things get better soon.</body>
+  <userId>2</userId>
+  <tags>
+    <li>american</li>
+    <li>love</li>
+    <li>fiction</li>
+  </tags>
+  <reactions>0</reactions>
 </root>
